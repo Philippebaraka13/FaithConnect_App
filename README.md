@@ -32,21 +32,25 @@ FaithConnect is a mobile-first social platform designed for members of faith-bas
 
 ## 📸 Screenshots
 
-![localhost_8081_dashboard(iPhone 12 Pro)](https://github.com/user-attachments/assets/1bb437f6-472c-4cb9-9423-55e5d9356f30)
+![Screenshot 2025-07-02 112027](https://github.com/user-attachments/assets/00482d4c-a94e-41cc-9b20-b4e872c0fa8a)
 
-![localhost_8081_dashboard(iPhone 12 Pro) (1)](https://github.com/user-attachments/assets/d8cd5c53-e2c1-4084-a6d8-4f3a44c30f79)
+![Screenshot 2025-07-02 112009](https://github.com/user-attachments/assets/d396b4b4-5e0d-4c23-a647-baaa54d76b4a)
 
-![localhost_8081_dashboard(iPhone 12 Pro) (2)](https://github.com/user-attachments/assets/d2893700-a760-4871-a245-8b50bd3f7f64)
+![Screenshot 2025-07-02 111558](https://github.com/user-attachments/assets/e34adf48-34bf-47b8-a211-e4dde1510a7a)
 
-![localhost_8081_dashboard(iPhone 12 Pro) (3)](https://github.com/user-attachments/assets/daf154f4-cfa7-49d6-a98d-6f3f01295166)
+![Screenshot 2025-07-02 111630](https://github.com/user-attachments/assets/3ae531c1-7230-4400-a875-650dca297861)
 
-![localhost_8081_dashboard(iPhone 12 Pro) (4)](https://github.com/user-attachments/assets/229491af-8c30-4742-8d33-ea611a3e1218)
+![Screenshot 2025-07-02 111654](https://github.com/user-attachments/assets/68a4e79a-906e-49df-b523-0f53bb5b4a96)
 
-![localhost_8081_dashboard(iPhone 12 Pro) (5)](https://github.com/user-attachments/assets/a82e72b7-64bd-40c2-9245-c1cf9880c644)
+![Screenshot 2025-07-02 111714](https://github.com/user-attachments/assets/969e92bd-63ce-4e76-9930-bdf608e4dcea)
 
-![localhost_8081_dashboard(iPhone 12 Pro) (6)](https://github.com/user-attachments/assets/a813c43c-4eaa-47ab-88a0-a99f1082f58f)
+![Screenshot 2025-07-02 111730](https://github.com/user-attachments/assets/b0e07b3f-6c19-4010-84cf-4593bc378f34)
 
-![localhost_8081_dashboard(iPhone 12 Pro) (7)](https://github.com/user-attachments/assets/f9f8dec6-e2fb-468a-8edc-5fa93ca00f86)
+![Screenshot 2025-07-02 111751](https://github.com/user-attachments/assets/9ea4d3af-c625-49fb-8a05-ba372b71175d)
 
-![localhost_8081_dashboard(iPhone 12 Pro) (8)](https://github.com/user-attachments/assets/dae6b98e-24ed-4790-a6b2-5d048f5edf66)
+![Screenshot 2025-07-02 111822](https://github.com/user-attachments/assets/2bbb5f03-1774-42c5-ade4-72c0b8b7a758)
+
+![Screenshot 2025-07-02 112134](https://github.com/user-attachments/assets/65c38fd1-3445-41e9-b462-422907ccdf93)
+
+![Screenshot 2025-07-02 111847](https://github.com/user-attachments/assets/e274bf82-66b1-499c-99c0-5c50ffbbff67)
 
